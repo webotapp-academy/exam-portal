@@ -1,0 +1,1 @@
+Using xampp php my admin mysql db exam create a plan to create a online exam portal with mcq questions with instant answers and more functions in the most detailed way using laravel. make the plan in bullet points on top and bottom write in details
